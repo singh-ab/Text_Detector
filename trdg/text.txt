@@ -1,0 +1,9 @@
+Sagri's goal of using AI and satellite data to transform agriculture is exactly in line with my love of technology that has an impact. 
+I like that the company is working to address abandoned farmland and become carbon neutral, especially in India and Japan. 
+The opportunity to innovate and actually work on cutting edge technology intrigues me. I'm eager to work on the carbon-credit project.
+
+
+I would help with data collection, preprocessing, and model development for soil carbon analysis by utilizing my expertise in Python, pandas & matplotlib. 
+Having worked in machine learning, I would help validate carbon credits by supporting process-based modeling. 
+If need be, I can also utilize my skills in React, TS for developing a frontend. 
+My research and teamwork abilities would also improve PoC projects, guaranteeing precise analysis and significant results.
