@@ -1,7 +1,7 @@
 import os
 from PIL import Image, ImageDraw, ImageFont
 
-def create_annotations_for_trdg_images(image_dir, label_dir, font_path="arial.ttf"):
+def create_annotations_for_trdg_images(image_dir, label_dir, font_path="./fonts/latin/Roboto-Italic.ttf"):
     if not os.path.exists(label_dir):
         os.makedirs(label_dir)
     
