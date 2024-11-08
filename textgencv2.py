@@ -141,7 +141,7 @@ def read_text_file(file_path):
         lines = file.readlines()
     return lines
 
-def generate_synthetic_document(output_dir, num_pages=10, text_file_path="text.txt", bg_images_path="./backgrounds", font_path="arial.ttf"):
+def generate_synthetic_document(output_dir, num_pages=10, text_file_path="text.txt", bg_images_path="./backgrounds", font_path="./trdg/fonts/latin/Aller_Bd.ttf"):
     images_dir = os.path.join(output_dir, "images")
     labels_dir = os.path.join(output_dir, "labels")
     
